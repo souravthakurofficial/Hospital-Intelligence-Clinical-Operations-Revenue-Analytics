@@ -1,4 +1,5 @@
 📊 Project Title: Hospital Intelligence – Clinical Operations & Revenue Analytics
+
 🔹 Objective
 
 Analyze hospital operations, patient flow, doctor performance, and revenue cycle to deliver actionable insights for improving efficiency, reducing revenue leakage, and enabling data-driven healthcare decisions.
