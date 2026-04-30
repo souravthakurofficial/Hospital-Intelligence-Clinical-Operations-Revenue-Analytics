@@ -27,7 +27,7 @@ Designed a Star Schema data model with fact tables (Appointments, Billing, Treat
 
 Optimized relationships for efficient filtering and performance
 
-###🔹 Key KPIs & DAX Measures
+### 🔹 Key KPIs & DAX Measures
 
 Total Revenue & MoM Growth
 
@@ -55,7 +55,7 @@ Analyzed patient demographics impacting revenue trends
 
 Observed monthly revenue patterns for operational planning
 
-###🔹 Dashboard Features
+### 🔹 Dashboard Features
 
 Interactive KPI cards for real-time performance tracking
 
